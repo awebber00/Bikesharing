@@ -1,6 +1,6 @@
 # Bikesharing
 
-![Citibike](Resources/citibike.jpg)
+![Citibike](Resources/citibike.png)
 
 ## Analysis Overview
 The purpose of this analysis is to utilize Tableau to assist an emerging bike sharing company, and show how the visualization tool can be used to transform data into an engaging story for any audience.
