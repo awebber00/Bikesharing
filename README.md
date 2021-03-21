@@ -53,6 +53,38 @@ This is another example in the realm of converting data in order for it to be pr
 
 ![Story](Resources/tableau_story.png)
 
-##Summary
+## Results
 
-Through our analysis we see that Thursday is the most popular day for customers and subscribers to ride a bike. We also see that the sex that is most likely to rent a bike and use it during the day is Male. This is adequate information that can be used by the emerging bike sharing start-up and it can definitely be applied to the potential customers and subscribers in Iowa. Two additional visualizations that we would conduct with the data that would also be beneficial to investors and owners of the start-up would be to visualize the data that shows how the habits of bike renters change with te seasons as well as with weather conditions. Another metric th
+![NumberOfRides](Resources/NumberOfRides.png)
+
+Number of rides taken for the period of analysis
+
+![August Peak Hours](Resources/AugustPeakHours.png)
+
+Peak hours for rides during the month of August
+
+![Average Trip Duration](Resources/AverageTripDuration.png)
+
+The average time of a trip.
+
+![Customers](Resources/Customers.png)
+
+Customers vs. subscribers.
+
+![Starting Locations](Resources/StartingLocations.png)
+
+A visualization depicting the starting loctaions of rides.
+
+![Ending Locations](Resources/EndingLocations.png)
+
+A visualization depicting the ending location of rides.
+
+![Gender breakdown](Resources/GenderBreakdown.png)
+
+A visualization depicting the breakdown of the different genders using the bike sharing service.
+
+## Summary
+
+Through our analysis we see that on average Male customers & subscribers take more short trips than Female customers & subscribers. We also see that the sex that is most likely to rent a bike and use it during the daytime hours is Male. This is adequate information that can be used by the emerging bike sharing start-up and it can definitely be applied to the potential customers and subscribers in Iowa. Two additional visualizations that we would conduct with the data that would also be beneficial to investors and owners of the start-up would be to visualize the data that shows how the habits of bike renters change with te seasons as well as with weather conditions. Another additional visualization that would be helpful would be to see if there is a correlation between the amount of repairs that need to be performed on bikes and the location in which they originate from and end at.
+
+
