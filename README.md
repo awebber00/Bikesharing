@@ -52,3 +52,7 @@ This is another example in the realm of converting data in order for it to be pr
 ![Dashboard](Resources/tableau_dashboard.png)
 
 ![Story](Resources/tableau_story.png)
+
+##Summary
+
+Through our analysis we see that Thursday is the most popular day for customers and subscribers to ride a bike. We also see that the sex that is most likely to rent a bike and use it during the day is Male. This is adequate information that can be used by the emerging bike sharing start-up and it can definitely be applied to the potential customers and subscribers in Iowa. Two additional visualizations that we would conduct with the data that would also be beneficial to investors and owners of the start-up would be to visualize the data that shows how the habits of bike renters change with te seasons as well as with weather conditions. Another metric th
