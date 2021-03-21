@@ -6,7 +6,7 @@
 The purpose of this analysis is to utilize Tableau to assist an emerging bike sharing company, and show how the visualization tool can be used to transform data into an engaging story for any audience.
 
 ## Resources 
-- **Data Source:** 201908-citibike-tripdata.csv, new201908-citibike-tripdata.csv, [Citibike System Data Page] (https://www.citibikenyc.com/system-data)
+- **Data Source:** 201908-citibike-tripdata.csv, new201908-citibike-tripdata.csv, [Citibike System Data Page](https://www.citibikenyc.com/system-data)
 - **Software:** Tableau Public, Jupyter Notebook
 
 
